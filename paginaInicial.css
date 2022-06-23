@@ -1,0 +1,65 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color:#FDEAFF;
+}
+h1, h3, h5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navbar {
+    background-color: #fdeaff;
+}
+
+p{
+    text-align: center;
+}
+
+.imagen{
+    margin:0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.imagen img{
+    height: 250px;
+}
+
+#contenedor{
+    width: 1000px; 
+    margin: 0 auto;
+}
+
+#termometro{
+    height: 150px;
+}
+
+.ter-img img{
+    margin:0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.contenedor-cartas{
+    padding: 20px;
+    width: 1000px; 
+    margin: 0 auto;
+}
+
+.boton{
+    text-align: center;
+}
+
+button{
+    margin: 12px;
+    padding: 6px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+}

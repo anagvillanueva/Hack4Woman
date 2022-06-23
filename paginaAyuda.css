@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+h1, h2,h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body{
+    background-color:rgb(225, 212, 237);
+}
+
+.imagen-principal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#med{
+    padding: 20px;
+    width: 900px; 
+    margin: 0 auto;
+}
+
+#legal{
+    padding: 20px;
+    width: 900px; 
+    margin: 0 auto;
+}
+
+#ayuda{
+    padding: 20px;
+    width: 900px; 
+    margin: 0 auto;
+}
+
+#numeros{
+    padding: 20px;
+    width: 900px; 
+    margin: 0 auto;
+}
